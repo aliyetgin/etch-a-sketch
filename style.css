@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+.grid-container {
+    display: grid;
+   
+    grid-template-rows: repeat(16, 1fr);  */
+}
+
+.square {
+    height: 6.25vh;
+}
